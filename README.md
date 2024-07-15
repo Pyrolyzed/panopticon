@@ -1,2 +1,3 @@
 # Panopticon
-TODO: Add this
+
+This is a stupidly ambitious project and is my way of learning rust.... Yeah...
